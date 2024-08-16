@@ -10,7 +10,7 @@ tags: blog
 <div class="home">
   {% if posts_count > 0 %}
   <div class="posts">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
     <div class="post py3">
       <p class="post-meta">
         <span>{{ post.date | date: site.date_format }}</span>
