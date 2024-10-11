@@ -1,0 +1,32 @@
+/* CSS for the post grid */
+.post-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.post-item {
+  flex: 1 1 calc(33.333% - 20px); /* 3 columns */
+  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.post-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+@media screen and (max-width: 800px) {
+  .post-item {
+    flex: 1 1 calc(50% - 20px); /* 2 columns for smaller screens */
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .post-item {
+    flex: 1 1 100%; /* 1 column for small screens */
+  }
+}
