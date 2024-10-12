@@ -10,9 +10,11 @@ title: Home
         {% if post.thumbnail %}
           <img src="{{ post.thumbnail }}" alt="{{ post.title }} thumbnail">
         {% endif %}
-        <h3>{{ post.title }}</h3>
+        <div class="post-content">
+          <h3 class="post-title">{{ post.title }}</h3>
+          <p class="post-description">{{ post.date | date: "%B %d, %Y" }}</p>
+          </div>
       </a>
-      <p>{{ post.date | date: "%B %d, %Y" }}</p>
     </div>
   {% endfor %}
 </div>
