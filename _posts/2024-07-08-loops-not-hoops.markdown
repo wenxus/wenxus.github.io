@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Loops not Hoops - Using For Loops to Understand High Dimensional Tensor Multiplication"
+title:  "Understanding High Dimensional Tensor Multiplication"
 date:   2024-07-08 15:26:04 -0700
 categories: tech
 thumbnail: /images/tensor-dimensions.png
