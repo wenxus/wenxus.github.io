@@ -8,8 +8,6 @@ permalink: /tech/
 
 <h2 style="text-align: center;"> Arthur C. Clarke, <em>Profiles of the Future</em></h2>
 
-# Tech Posts
-
 <div class="post-grid">
   {% for post in site.categories.tech %}
     <div class="post-item">
@@ -17,9 +15,13 @@ permalink: /tech/
         {% if post.thumbnail %}
           <img src="{{ post.thumbnail }}" alt="{{ post.title }} thumbnail">
         {% endif %}
-        <h2>{{ post.title }}</h2>
+        <div class="post-content">
+          <h3 class="post-title">{{ post.title }}</h3>
+          <p class="post-description">{{ post.date | date: "%B %d, %Y" }}</p>
+          </div>
       </a>
-      <p>{{ post.date | date: "%B %d, %Y" }}</p>
     </div>
   {% endfor %}
 </div>
+
+<link rel="stylesheet" href="/assets/css/style.css">

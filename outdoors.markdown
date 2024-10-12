@@ -9,8 +9,7 @@ permalink: /outdoors/
 
 <h1 style="text-align: center;">Kim Stanley Robinson, <em>The High Sierra</em></h1>
 
-# Outdoor Posts
-<div class="post-grid">
+<!-- <div class="post-grid">
   {% for post in site.categories.outdoors %}
     <div class="post-item">
       <a href="{{ post.url }}">
@@ -22,4 +21,22 @@ permalink: /outdoors/
       <p>{{ post.date | date: "%B %d, %Y" }}</p>
     </div>
   {% endfor %}
+</div> -->
+
+<div class="post-grid">
+  {% for post in site.categories.outdoors %}
+    <div class="post-item">
+      <a href="{{ post.url }}">
+        {% if post.thumbnail %}
+          <img src="{{ post.thumbnail }}" alt="{{ post.title }} thumbnail">
+        {% endif %}
+        <div class="post-content">
+          <h3 class="post-title">{{ post.title }}</h3>
+          <p class="post-description">{{ post.date | date: "%B %d, %Y" }}</p>
+          </div>
+      </a>
+    </div>
+  {% endfor %}
 </div>
+
+<link rel="stylesheet" href="/assets/css/style.css">
