@@ -37,6 +37,11 @@ header_pages:
   - outdoors.markdown
   - index.markdown
 
+defaults:
+  - scope:
+      path: "" # An empty string means this applies to all files
+    values:
+      layout: default
 
 # Exclude from processing.
 # The following items will not be processed, by default.
