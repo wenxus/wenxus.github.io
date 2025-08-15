@@ -35,6 +35,7 @@ permalink: /posts/:title
 header_pages:
   - tech.markdown
   - outdoors.markdown
+  - resume.markdown
   - index.markdown
 
 defaults:
