@@ -34,6 +34,7 @@ permalink: /posts/:title
 
 header_pages:
   - tech.markdown
+  - research.markdown
   - outdoors.markdown
   - resume.markdown
   - index.markdown
