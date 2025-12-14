@@ -4,6 +4,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {%- seo -%}
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <style>
+    /* Full-width images in articles on mobile */
+    @media (max-width: 600px) {
+      .post-content img,
+      .post-content figure {
+        width: 100vw !important;
+        max-width: 100vw !important;
+        margin-left: -15px !important;
+        margin-right: -15px !important;
+        float: none !important;
+      }
+      .post-content figure img {
+        width: 100% !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .post-content iframe {
+        width: 100vw !important;
+        max-width: 100vw !important;
+        margin-left: -15px !important;
+        margin-right: -15px !important;
+        float: none !important;
+      }
+    }
+    </style>
     {%- feed_meta -%}
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}
