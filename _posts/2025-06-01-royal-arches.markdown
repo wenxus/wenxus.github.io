@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "Royal Arches"
+title: "Climbing the Royal Arches"
 date: 2025-06-01 12:00:00 -0700
 categories: outdoors
 thumbnail: /images/arches.jpeg
 ---
 
-![Royal Arches](/images/arches.jpeg)
+<figure>
+  <img src="/images/arches.jpeg" alt="Royal Arches">
+  <figcaption>The orange circle indicates where the pendulum is on the climbing route from the ground.</figcaption>
+</figure>
 
 Every spring and fall when I visit Yosemite, I look up at Royal Arches from the valley floor and trace the line on the 2,000-foot cliff. It sits right next to the granite exfoliation arches facing Half Dome—striking, unmistakable. For years I've imagined getting on this all-time classic. This May, at a moment when I didn't know what came next in my life, I finally did.
 
