@@ -1,12 +1,13 @@
 /* Main Grid Container */
 .post-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(300px, 1fr)); /* Flexible columns */
+  grid-template-columns: repeat(3, minmax(300px, 1fr)); /* Flexible columns */
   grid-auto-rows: 400px; /* Ensures all items have the same height */
   gap: 40px; /* Space between grid items */
-  padding: 20px;
-  max-width: 1400px; /* Increase the max width of the grid */
-  margin: 0 auto; /* Center the grid on the page */
+  padding: 20px 0; /* Remove horizontal padding */
+  max-width: 1800px; /* Increase the max width of the grid */
+  margin: 0; /* Align grid to the left */
+  margin-left: -80px; /* Align with header */
 }
 
 /* Individual Grid Item */
@@ -66,14 +67,22 @@
   -webkit-line-clamp: 3; /* Limit to 3 lines */
   -webkit-box-orient: vertical;
   text-overflow: ellipsis; /* Truncate with ellipsis */
-  margin-top: auto; /* Push description to the bottom
-  margin-bottom: 10; /* Ensure no extra margin at the bottom */
+  margin-top: auto; /* Push description to the bottom */
+  margin-bottom: 10px; /* Ensure no extra margin at the bottom */
 }
 
 /* Responsive adjustments */
+@media (max-width: 1200px) {
+  .post-grid {
+    grid-template-columns: repeat(2, minmax(300px, 1fr)); /* 2 columns on tablets */
+    margin-left: -40px;
+  }
+}
+
 @media (max-width: 768px) {
   .post-grid {
     grid-template-columns: 1fr; /* Single column on smaller screens */
+    margin-left: 0;
   }
 
   .post-item {

@@ -10,6 +10,11 @@ I'm actively conducting research on AI safety and alignment, focusing on making 
 
 ## Current & Recent Projects
 
+### Can Reasoning Models Obfuscate Reasoning? Stress-testing Chain-of-Thought Monitorability
+*Paper accepted at NeurIPS 2025 FoRLM workshop.*
+
+[Read the paper on arXiv →](https://arxiv.org/abs/2510.19851)
+
 ### Vulnerability in Trusted Monitoring and Mitigations
 Research conducted as part of AI Safety Camp, exploring vulnerabilities in AI monitoring systems and developing robust mitigation strategies.
 
