@@ -30,12 +30,10 @@
 
 /* Image styling - ensures the image fits without being squished */
 .post-item img {
-  width: auto;
+  width: 100%;
   height: 240px; /* Adjust the percentage to control image height */
   object-fit: cover; /* Maintain aspect ratio, cover the container */
   display: block;
-  margin-left: auto;
-  margin-right: auto; /* Centers the image horizontally if it's too wide */
 }
 
 .post-content {
