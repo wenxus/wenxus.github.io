@@ -45,4 +45,4 @@ Because the climb was mostly easier than my grade, I wasn't super focused. I spe
 
 This was my first taste of a long ascent from Yosemite valley. Short approach, high-quality climbing, a full day among Yosemite granite. I'm grateful for John's partnership and for a climb that taught me something: I can study the topo, but I can't see every hold from the ground. At some point I have to start climbing and trust that I'll solve problems as they come and not let the fear of uncertainty distract me from the present moment.
 
-**Lesson:** Place protection during easy climbs, and double-check footing. Without that, I would have stepped into the void under some dead leaf and fallen more than 20 feet. Also: eat more. I was definitely undereating—next time, more protein bars, fewer fig bars, and lunch before noon.
+**Lessons:** Place protection during easy climbs, and double-check footing. Without that, I would have stepped into the void under some dead leaves and fallen more than 20 feet. Also: eat more. I was definitely undereating—next time, more protein bars, fewer fig bars, and lunch before noon.
