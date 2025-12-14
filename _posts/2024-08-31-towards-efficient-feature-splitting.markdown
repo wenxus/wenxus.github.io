@@ -2,7 +2,7 @@
 layout: post
 title:  "Towards Efficient Feature-Splitting"
 date:   2024-08-31 09:06:03 -0700
-categories: tech
+categories: research
 thumbnail: /images/featuresplit-f1.png
 ---
 

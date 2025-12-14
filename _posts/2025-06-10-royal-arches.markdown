@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Climbing the Royal Arches"
-date: 2025-06-01 12:00:00 -0700
+date: 2025-06-10 12:00:00 -0700
 categories: outdoors
 thumbnail: /images/arches.jpeg
 ---

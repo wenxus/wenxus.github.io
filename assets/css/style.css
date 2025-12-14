@@ -71,6 +71,12 @@
   margin-bottom: 10px; /* Ensure no extra margin at the bottom */
 }
 
+/* Research page specific grid - 2 columns */
+.research-grid {
+  grid-template-columns: repeat(2, minmax(300px, 1fr));
+  margin-left: 0px;
+}
+
 /* Responsive adjustments */
 @media (max-width: 1200px) {
   .post-grid {

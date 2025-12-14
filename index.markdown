@@ -12,7 +12,7 @@ title: Home
         {% endif %}
         <div class="post-content">
           <h3 class="post-title">{{ post.title }}</h3>
-          <p class="post-description">{{ post.date | date: "%B %d, %Y" }}</p>
+          <p class="post-description">{% if post.subtitle %}{{ post.subtitle }}{% else %}{{ post.date | date: "%B %d, %Y" }}{% endif %}</p>
           </div>
       </a>
     </div>

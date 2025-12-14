@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding High Dimensional Tensor Multiplication"
 date:   2024-07-08 15:26:04 -0700
-categories: tech
+categories: research
 thumbnail: /images/tensor-dimensions.png
 ---
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
