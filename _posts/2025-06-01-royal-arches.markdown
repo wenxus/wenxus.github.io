@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Royal Arches"
-date: 2025-05-01 12:00:00 -0700
+date: 2025-06-01 12:00:00 -0700
 categories: outdoors
 thumbnail: /images/arches.jpeg
 ---
@@ -12,7 +12,7 @@ Every spring and fall when I visit Yosemite, I look up at Royal Arches from the 
 
 <img src="/images/route.jpeg" alt="Route" style="float: right; width: 265px; margin: 0 0 15px 20px;">
 
-The climb was unplanned. I had met John from New York through a friend just a few days earlier on a group Tahoe trip. He was very capable and great to climb with. He was heading to Yosemite after and invited people to join him; I didn't have a fixed schedule, so I joined him. After climbing another valley classic and checking the weather, we decided on Royal Arches just two days before. Sometimes the biggest days come together like that.
+The climb happened serendipitously. I had met John from New York through a friend just a few days earlier on a group Tahoe trip. He was very capable and great to climb with. He was heading to Yosemite after and invited people to join him; I didn't have a fixed schedule, so I joined him. After climbing another valley classic and checking the weather, we decided on Royal Arches just two days before. Sometimes the biggest days come together like that.
 
 It was a 15-hour car-to-car day: 12 hours climbing, 2.5 hours rappelling. 350 meters of vertical gain across 15 pitches. I slept lightly the night before. A raccoon came into the tent and triggered my AirTag alarm. I was up before 5am anyway.
 
