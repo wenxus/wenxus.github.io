@@ -23,13 +23,13 @@ It was a 15-hour car-to-car day: 12 hours climbing, 2.5 hours rappelling. 350 me
 
 <img src="/images/chimney.jpeg" alt="Chimney" style="float: left; width: 280px; margin: 40px 20px 15px 0;">
 
-The first few pitches were enjoyable—chimney climbing, which I'd been nervous about since I don't have much experience squeezing between giant rocks and pushing against each side with back, feet, and palms. It's nothing like a climbing gym. But it went fine. The morning was cool, and I led a few easy pitches. Mostly walking though, not the sustained engagement I crave. My mind wandered to what I'd been trying not to think about: my transition into research had been uncertain, and I might need a backup plan soon.
+The first few pitches were enjoyable—chimney climbing, which I'd been nervous about since I don't have much experience squeezing between giant rocks and pushing against each side with back, feet, and palms. It's nothing like what's in the climbing gyms. But it went fine. The morning was cool, and I led a few easy pitches. Mostly walking though, not the sustained climbing I crave. My mind wandered to what I'd been trying not to think about: my transition into research had been uncertain, and I might need a backup plan soon.
 
 <div style="clear: both;"></div>
 
 <img src="/images/route_finding.jpeg" alt="Route finding" style="float: right; width: 315px; margin: 25px 0 15px 20px;">
 
-Because the climb was mostly easier than my grade, I wasn't super focused. I spent energy worrying and rushing instead—about rappelling in the dark, about finding anchors I couldn't see, about summer. Perched on a small granite platform with thousands of feet of nothing beneath me, reading the topo on my phone, I realized I need to get good at route-finding quickly—on Royal Arches and in my life. I felt confident about our skills, systems, and teamwork, but I didn't feel in control of our fate. Compared to my first Yosemite multi-pitch two years ago, I was more capable but less stoked—more worried because I know more about what can go wrong now. At least I wasn't wishing I was somewhere else.
+Because the climb was mostly easier than my grade, I wasn't super focused. I spent energy worrying and rushing instead—about rappelling in the dark, about finding anchors I couldn't see, about summer. Perched on a small granite platform with thousands of feet of nothing beneath me, reading the topo on my phone, I realized I need to get good at route-finding quickly—on Royal Arches and in my life. I felt confident about my skill, rope systems, and our teamwork, but I didn't feel in control of our fate. Compared to my first Yosemite multi-pitch two years ago, I was more capable but less stoked—more worried because I know more about what can go wrong now. At least I wasn't wishing I was somewhere else.
 
 <div style="clear: both;"></div>
 
@@ -39,15 +39,17 @@ Because the climb was mostly easier than my grade, I wasn't super focused. I spe
 
 <div style="clear: both;"></div>
 
-The other memorable pitch I led was a horizontal traverse—pitch 11—getting over a big bulge off the cliff. The sequence starts by climbing on top of the bulge, where the crack between it and the main cliff is the only place to put protection. The hard part: the bulge was taller than me when I started, so I had to climb it blind, unable to see what lay ahead. The ultimate test of solving problems as they come. None of the moves were difficult, but I could feel my nerves anyway.
+The other memorable pitch I led was a horizontal traverse—pitch 11—getting over a big bulge off the cliff. The sequence starts by climbing on top of the bulge, where the crack between it and the main cliff is the only place to put protection. The hard part: the bulge was taller than me when I started, so I had to climb it blind, unable to see what's ahead. The ultimate test of solving problems as they come. None of the moves were difficult, but I felt shaky.
 
-The traverse turned into a right-to-left horizontal hand-sized crack. I used hand-over-hand—one in the crack, one reaching forward—feet pressing hard against the rock so that the opposing pressure kept me stable. Hundreds of feet of air beneath my feet.
+The traverse soon turned into a right-to-left horizontal hand-sized crack. I inched forward hand-over-hand, one hand jaming in the crack to keep myself on the rock, one reaching forward while pressing my feet hard against the rock so that the opposing pressure kept me stable. Nothing but air beneath my feet.
 
-Like any trad lead, it became a balance between placing protection and preserving energy. More gear means a safer fall—if I peeled off while moving horizontally, I'd only swing back to my last piece instead of taking a massive pendulum. But placing gear in a horizontal crack isn't easy when you only have one hand in, your feet aren't helping much, and your back is straining. I'm not the best endurance climber.
+Like any trad lead, it was a balance between placing protection and preserving energy. More gear means a safer fall—if I peeled off while moving horizontally, I'd only swing back to my last piece instead of taking a massive pendulum. But placing gear in a horizontal crack isn't fast for me, and I was really hanging on the friction between one hand and the crack because my feet aren't helping much, and my back started to tire. I'm not the best endurance climber.
 
 At one point, really straining, I looked down at my last piece and mentally calculated how bad the swing would be. Even though I trusted the gear would hold, the swing would slam me into the rock to my right. That thought made me tense up. I gritted my teeth and kept moving left.
 
-There was a foot rail at one point—so thin that if I stayed static, I'd slip off. So I didn't stay static. I just kept going. Just as I was about to lose my balance, a tree appeared, growing out of the platform I needed to reach. I grabbed it, stabilized, scrambled onto solid ground, and let out a long exhale.
+There was a foot rail at next—it felt so thin that if I stayed static, I'd slip off. So I didn't stay static. I kept going. Just as I was about to lose my balance, I suddenly noticed a tree branch right in front of me, growing out of the platform I needed to reach. I grabbed it, stabilized, scrambled onto solid ground, and let out a long exhale.
+
+Looking back, the drama was probably mostly in my head. I psyched myself out. It was a beautiful hand crack, and I wish I had enjoyed it more. As is often the case, when I'm excited about a climb and focusing entirely on figuring out the route and moving well, I usually enjoy the it. But if I fixate on what could go wrong, I tense up, making the climb harder, and thus more likely to fall. Still a work-in-progress on my mental game. 
 
 **The surprise:** The thing I'd worried about all day turned out to be a gift. Rappelling in the dark was serene—just spots of campfires below, some stars above. I immediately understood the appeal of El Cap climbers spending nights on the wall. The Royal Arches rappel is well bolted, our grigri simul-rappel system worked beautifully, and the darkness that had loomed over me all day became something peaceful.
 
