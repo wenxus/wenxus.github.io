@@ -39,6 +39,16 @@ Because the climb was mostly easier than my grade, I wasn't super focused. I spe
 
 <div style="clear: both;"></div>
 
+The other memorable pitch I led was a horizontal traverse—pitch 11—getting over a big bulge off the cliff. The sequence starts by climbing on top of the bulge, where the crack between it and the main cliff is the only place to put protection. The hard part: the bulge was taller than me when I started, so I had to climb it blind, unable to see what lay ahead. The ultimate test of solving problems as they come. None of the moves were difficult, but I could feel my nerves anyway.
+
+The traverse turned into a right-to-left horizontal hand-sized crack. I used hand-over-hand—one in the crack, one reaching forward—feet pressing hard against the rock so that the opposing pressure kept me stable. Hundreds of feet of air beneath my feet.
+
+Like any trad lead, it became a balance between placing protection and preserving energy. More gear means a safer fall—if I peeled off while moving horizontally, I'd only swing back to my last piece instead of taking a massive pendulum. But placing gear in a horizontal crack isn't easy when you only have one hand in, your feet aren't helping much, and your back is straining. I'm not the best endurance climber.
+
+At one point, really straining, I looked down at my last piece and mentally calculated how bad the swing would be. Even though I trusted the gear would hold, the swing would slam me into the rock to my right. That thought made me tense up. I gritted my teeth and kept moving left.
+
+There was a foot rail at one point—so thin that if I stayed static, I'd slip off. So I didn't stay static. I just kept going. Just as I was about to lose my balance, a tree appeared, growing out of the platform I needed to reach. I grabbed it, stabilized, scrambled onto solid ground, and let out a long exhale.
+
 **The surprise:** The thing I'd worried about all day turned out to be a gift. Rappelling in the dark was serene—just spots of campfires below, some stars above. I immediately understood the appeal of El Cap climbers spending nights on the wall. The Royal Arches rappel is well bolted, our grigri simul-rappel system worked beautifully, and the darkness that had loomed over me all day became something peaceful.
 
 <img src="/images/cliffs.jpeg" alt="Cliffs" style="float: left; width: 280px; margin: 0 20px 15px 0;">
