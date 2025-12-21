@@ -43,7 +43,7 @@ The other memorable pitch I led was a horizontal traverse—pitch 11—getting o
 
 The traverse soon turned into a right-to-left horizontal hand-sized crack. I inched forward hand-over-hand, one hand jaming in the crack to keep myself on the rock, one reaching forward while pressing my feet hard against the rock so that the opposing pressure kept me stable. Nothing but air beneath my feet.
 
-Like any trad lead, it was a balance between placing protection and preserving energy. More gear means a safer fall—if I peeled off while moving horizontally, I'd only swing back to my last piece instead of taking a massive pendulum. But placing gear in a horizontal crack isn't fast for me, and I was really hanging on the friction between one hand and the crack because my feet aren't helping much, and my back started to tire. I'm not the best endurance climber.
+Like any trad lead, it was a balance between placing protection and preserving energy. More gear means a safer fall—if I peeled off while moving horizontally, I'd only swing back to my last piece instead of taking a massive pendulum. But placing gear in a horizontal crack wasn't fast for me. I was hanging on the friction between one hand and the crack, feet not helping much, and back started to tire. I'm not the best endurance climber.
 
 At one point, really straining, I looked down at my last piece and mentally calculated how bad the swing would be. Even though I trusted the gear would hold, the swing would slam me into the rock to my right. That thought made me tense up. I gritted my teeth and kept moving left.
 
