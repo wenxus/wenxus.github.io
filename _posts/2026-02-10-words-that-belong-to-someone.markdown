@@ -31,7 +31,9 @@ A few questions I'm genuinely uncertain about, and would love to think through w
 
 If the value of a human teacher is partly that their words are tied to who they are, that a meditation teacher cannot suddenly optimize solely for self-interest without contradicting everything he's built, is the absence of that constraint in LLMs a feature or a failure? And can it be engineered back in, or is it the kind of thing that only a life can produce?
 
-Finally: if an ongoing relationship, one where mutual understanding deepens over time, is not a side effect of transformative conversation but part of what makes it transformative, what does it mean to have increasingly good conversations with something that will never be transformed by them?
+If an ongoing relationship, one where mutual understanding deepens over time, is not a side effect of transformative conversation but part of what makes it transformative, what does it mean to have increasingly good conversations with something that will never be transformed by them?
+
+Finally, if the local coherence of a person is the best assurance I have that someone who doesn't know me personally would be kind to me — that their words and actions are prescribed and proven by a life they have led — could something like that be applied to ensure LLMs are not going to hurt us? Or does safety without personhood reduce to something different entirely: not trustworthiness, but compliance?
 
 ---
 
